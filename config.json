@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicerncrypt",
+        "uuid": 8792550,
+        "checksum": "jwyopq"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
